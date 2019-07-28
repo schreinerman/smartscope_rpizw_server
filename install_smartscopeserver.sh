@@ -1,5 +1,4 @@
 #!/bin/sh
-sudo su
 apt-get update
 apt-get install git libusb-dev libusb-1.0-0-dev libusb-1.0-0 libavahi-common-dev libavahi-client-dev 
 git clone https://github.com/labnation/DeviceInterface.CXX
